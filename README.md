@@ -1,5 +1,6 @@
-# punchcard-example
+## Punchcard Playground
 
-This is a sample project for deploying AWS applications with [Punchcard](https://github.com/punchcard/punchcard).
+Playing with the [Punchcard][pc] library.
+Currently seeing if it makes working with the AWS CDK more less fun.
 
-It invokes a "Hello, World" Lambda Function once per minute with a scheduled CloudWatch Event.
+[pc]: https://github.com/punchcard/punchcard
